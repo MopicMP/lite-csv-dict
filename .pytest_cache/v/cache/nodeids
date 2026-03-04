@@ -1,0 +1,5 @@
+[
+  "tests/test_lite_csv_dict.py::TestDict::test_basic",
+  "tests/test_lite_csv_dict.py::TestDict::test_empty",
+  "tests/test_lite_csv_dict.py::TestDict::test_type_error"
+]
